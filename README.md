@@ -57,6 +57,4 @@ To run the project:
 
 ## Contributors <a name="contributors"></a>
 
-- Your Name - Project Lead
-- Contributor 1 - Data Scientist
-- Contributor 2 - Web Developer
+- Shivam Rawat
